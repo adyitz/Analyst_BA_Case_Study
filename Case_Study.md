@@ -1,8 +1,10 @@
-Objective:
+## Objective:
 
-As a Business Analyst for EMD Electronics, one of your tasks is to analyze sales data and provide insights to the management team regarding the impact of advertising expenses on sales performance. The management team is looking at expanding into new product lines, and they in order to successfully launch new product lines, they are eager to answer the following business question: "Does the amount spent on advertising significantly influence sales performance, and if so, what is the optimal advertising budget to maximize sales?"
+As a Business Analyst for EMD Solutions, a fictional vertical B2B SaaS startup, one of your tasks is to analyze historical sales data and provide insights to the leadership team regarding sales performance across our product suite. 
 
-Data and Task Guidelines:
+The management team is looking at expanding into new product lines, and in order to successfully launch, they are eager to answer the following business question: _"Does the amount spent on advertising significantly influence sales performance, and if so, what is the optimal advertising budget to maximize sales?"_
+
+## Data and Task Guidelines:
 
 You have been provided a raw data file containing sales and advertising expense data. [Data fields required: Date, Customer, Product, Region, Quantity, Price, Revenue, and Advertising_Expense.]
 
