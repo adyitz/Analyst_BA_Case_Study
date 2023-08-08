@@ -1,8 +1,8 @@
 # Analyst_BA_Case_Study
-Raw Data needed to complete the EngagedMD SQL case study.
+This repo will containt the raw data needed to complete the EngagedMD Business Analyst case study.
 
 ## Case Study Instructions:
-Thank you for your application to EngagedMD. If you've made it this far, it means your resume has been selected amongst the dozens of applicants, and you have passed the initial interview.. Congratulations! 
+Thank you for your application to EngagedMD. If you've made it this far, it means your resume has been selected amongst the dozens of applicants, and you have passed the initial interview. Congratulations! 
 The CSV files listed here are the foundations for a relational database model that mimics business data that might be leveraged in an analyst role at EngagedMD. Please download the CSV files, insert the data into a database of your choosing, and then begin querying the data in order to complete your assigned case study.
 
 ## FAQ:
