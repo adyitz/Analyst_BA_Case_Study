@@ -2,7 +2,7 @@
 
 As a Business Analyst for EMD Solutions, a fictional vertical B2B SaaS startup, one of your tasks is to analyze historical sales data and provide insights to the leadership team regarding sales performance across our product suite. 
 
-The management team is looking at expanding into new product lines, and in order to successfully launch, they are eager to answer the following business question: _"Does the amount spent on advertising significantly influence sales performance, and if so, what is the optimal advertising budget to maximize sales?"_
+The management team is looking to expand the product offering, and in order to successfully launch, they are eager to answer the following business question: ***"Does the amount spent on advertising significantly influence sales performance, and if so, what is the optimal advertising budget to maximize sales?"***
 
 ## Data and Task Guidelines:
 
