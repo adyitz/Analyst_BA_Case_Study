@@ -9,25 +9,25 @@ The CSV file included here mimics business data that might be leveraged in a Bus
 
 Q: Is the data real business data?
 
-A: No, this data is mock data for a fictional business?
+A: No, this data is mock data for a fictional business.
 ___
 
 Q: Is it alright if this data is left in a public domain,either in my BI tool, personal Repo, or otherwise?
 
-A: We only ask that you do not share the details of this case study with other applicants of on a public job site. We want to keep a level playing fields for all applcants, now and in the future. Keeping this data in your personal location is acceptable.
+A: We only ask that you do not share the details of this case study with other applicants or on a public job site. We want to keep a level playing-field for all applcants, now and in the future. Keeping this data in your personal location is acceptable.
 ___
 
 Q: Does it matter what database I use to solve the case study?
 
-A: You can choose any relational SQL database to perform your analysis. As of the creation of this case study, BigQuery is used at EngagedMD, and you can access that for free with your own account: https://cloud.google.com/blog/products/data-analytics/query-without-a-credit-card-introducing-bigquery-sandbox
+A: You can choose any relational SQL database and/or spreadsheet (Google Sheets or Excel) to perform your analysis. As of the creation of this case study, BigQuery and Google Sheets are both used at EngagedMD, and you can access that for free with your own accounts. 
+
+Here is how you would access BigQuery for free: https://cloud.google.com/blog/products/data-analytics/query-without-a-credit-card-introducing-bigquery-sandbox
 ___
 
-Q: Does it matter what BI tool I connect to my case study SQL database?
+Q: Do I need to display my analytics results in a BI tool for this case study?
 
-A: Feel free to use the BI tool of your choice while completing this case study. As of the creation of this case study, Google Data Studio is used at EngagedMD, which can be accessed if you have a Google Cloud Platform account. Details here: https://support.google.com/datastudio/answer/6283323?hl=en
+A: No. Answers and data visualizatoins may be displayed in a spreadsheet (Google Sheets or Excel), and you may use you best judgement as to whether results are displayed in a graph, table, or raw data form.
+
+Please do NOT spend additional time creating visualizations in a BI tool or in a deck (Google Slides or Powerpoint). The focus of this case study is to showcase your approach and thought process, and your ability to work with the provided dataset to produce a business recommendation to leadership and stakeholders.
 ___
 
-Q: Does query performance matter in the case study?
-
-A: Query performance is not highly important for this case study - we are most interested in your analysis skills, and not your query optimization skills. Queries should complete and BI tools should update within a reasonable amount of time.
-___
