@@ -1,5 +1,5 @@
 # Analyst_BA_Case_Study
-This repo contains both the raw data and instructions needed to complete the EngagedMD Business Analyst case study.
+This repo contains both the raw data and the instructions needed to complete the EngagedMD Business Analyst case study.
 
 ## Case Study Instructions:
 Thank you for your application to EngagedMD. If you've made it this far, it means your resume has been selected amongst the dozens of applicants, and you have passed the initial interview. Congratulations! 
