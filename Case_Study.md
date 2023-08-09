@@ -2,26 +2,26 @@
 
 As a Business Analyst for EMD Solutions, a fictional vertical B2B SaaS startup, one of your tasks is to analyze historical sales data and provide insights to the leadership team regarding sales performance across our product suite. 
 
-The management team is looking to expand the product offering, and in order to successfully launch, they are eager to answer the following business question: ***"Does the amount spent on advertising significantly influence sales performance, and if so, what is the optimal advertising budget to maximize sales?"***
+The management team is looking to expand the product offering, and in order to successfully launch, they are eager to answer the following business question: ***"Has the total addressable market (TAM) significantly influenced historical sales performance, and if so, what is the optimal allocation of our advertising budget to maximize sales?"***
 
 ## Data and Task Guidelines:
 
-You have been provided a raw data file containing sales and advertising expense data. [Data fields required: Date, Customer, Product, Region, Quantity, Price, Revenue, and Advertising_Expense.]
+You have been provided a raw data file containing sales and advertising expense data. 
 
 1. Summarize Historical Performance (Trend Analysis):
   * Plot the overall sales trend for the entire data period.
   * Calculate any seasonal patterns or trends (if applicable).
   * Provide insights into the general sales performance over time.
-2. Identify Relationship between Advertising Expense and Revenue (Regression Analysis):
-  * Build a regression model to understand the relationship between sales and advertising expenses.
-  * Analyze the coefficient of the advertising expense variable and assess its significance.
+2. Identify Relationship between the total addressable market (TAM) and Revenue (Regression Analysis):
+  * Build a regression model to understand the relationship between sales and total addressable market (TAM).
+  * Analyze the coefficient of the total addressable market (TAM) variable and assess its significance.
   * Interpret the results and discuss the implications for decision-making.
 3. Perform Segmentation Analysis:
   * Segment customers based on their purchase behavior (e.g., frequent buyers, high spenders, etc.).
   * Analyze the characteristics and preferences of each segment.
-  * Explore whether the impact of advertising on sales varies among different customer segments.
+  * Explore whether the impact of total addressable market (TAM) on sales varies among different customer segments.
 
-Business Recommendation:
+## Business Recommendation:
 
 Based on your analysis, recommend an optimal advertising budget that would maximize sales while considering the cost of advertising. Provide evidence and justification for your recommendation.
 
