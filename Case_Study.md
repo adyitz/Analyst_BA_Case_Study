@@ -2,7 +2,7 @@
 
 As a Business Analyst for EMD Solutions, a fictional vertical B2B SaaS startup, one of your tasks is to analyze historical sales data and provide insights to the leadership team regarding sales performance across our product suite. 
 
-The management team is looking to expand the product offering, and in order to successfully launch, they are eager to answer the following business question: ***"Has the total addressable market (TAM) significantly influenced historical sales performance, and if so, what is the optimal allocation of our advertising budget to maximize sales?"***
+The management team is looking to expand the product offering, and in order to successfully launch, they are eager to answer the following business question: ***"Has the total addressable market (TAM) and advertising spend significantly influenced historical sales performance, and if so, what is the optimal allocation of our advertising budget to maximize sales?"***
 
 ## Data and Task Guidelines:
 
@@ -13,6 +13,10 @@ You have been provided a raw data file containing sales and advertising expense 
   * Calculate any seasonal patterns or trends (if applicable).
   * Provide insights into the general sales performance over time.
 2. Identify Relationship between the total addressable market (TAM) and Revenue (Regression Analysis):
+  * Clean the data:
+    * We have previously analyze historical sales data and activities and observed two items:
+      a. New accounts take about a year to season and reach full utilization of the modules they are subscribed to.
+      b. Even though we have clients that are in the Research industry, we have never marketed to Research firms the past (i.e. Customer_Type = Research).
   * Build a regression model to understand the relationship between sales and total addressable market (TAM).
   * Analyze the coefficient of the total addressable market (TAM) variable and assess its significance.
   * Interpret the results and discuss the implications for decision-making.
