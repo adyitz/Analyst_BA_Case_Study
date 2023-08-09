@@ -8,10 +8,11 @@ The management team is looking to expand the product offering, and in order to s
 
 You have been provided a raw data file containing sales and advertising expense data. 
 
-1. Summarize Historical Performance (Trend Analysis):
+1. Summarize Historical Performance:
   * Plot the overall sales trend for the entire data period.
   * Calculate any seasonal patterns or trends (if applicable).
-  * Provide insights into the general sales performance over time.
+  * Provide insights into the general sales performance and trends over time.
+  * You may assume the data is complete, the data does not contain duplicates, and that all test data has been removed.
 2. Identify Relationship between the total addressable market (TAM) and Revenue (Regression Analysis):
   * Clean the data:
     * We have previously analyze historical sales data and activities and observed two items:
