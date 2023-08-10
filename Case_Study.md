@@ -1,6 +1,6 @@
 ## Objective:
 
-As a Business Analyst for EMD Solutions, a fictional vertical B2B SaaS startup, one of your tasks is to analyze historical sales data and provide insights to the leadership team regarding sales performance across our product suite. 
+As a Business Analyst for EMD Solutions, a fictional vertical B2B SaaS startup, one of your tasks is to analyze historical sales data and provide insights to the leadership team regarding sales performance across the EMD Solutions product suite. 
 
 The management team is looking to expand the product offering, and in order to successfully launch, they are eager to answer the following business question: ***"Has the total addressable market (TAM) and advertising spend significantly influenced historical sales performance, and if so, what is the optimal allocation of our advertising budget to maximize sales?"***
 
@@ -12,14 +12,17 @@ You have been provided a raw data file containing sales and advertising expense 
   * Plot the overall sales trend for the entire data period.
   * Calculate any seasonal patterns or trends (if applicable).
   * Provide insights into the general sales performance and trends over time.
-  * You may assume the data is complete, the data does not contain duplicates, and that all test data has been removed.
-2. Identify Relationship between the total addressable market (TAM) and Revenue (Regression Analysis):
+  * You may assume the data is complete (i.e. the data does not contain duplicates, and that all test data has been removed).
+2. Identify Relationship between the total addressable market (TAM) and marketing expenditures, and the average monthly revenue per product:
   * Clean the data:
-    * We have previously analyze historical sales data and activities and observed two items:
+    * We have previously analyzed the historical sales data and activities and observed two items worth noting:
       a. New accounts take about a year to season and reach full utilization of the modules they are subscribed to.
       b. Even though we have clients that are in the Research industry, we have never marketed to Research firms the past (i.e. Customer_Type = Research).
-  * Build a regression model to understand the relationship between sales and total addressable market (TAM).
-  * Analyze the coefficient of the total addressable market (TAM) variable and assess its significance.
+  * Build a model to quantify the relationship between sales and total addressable market (TAM).
+  * Build a model to quantify the relationship between sales and marketing expenditures.
+  * Questions: 
+    a. Describe the relationship between sales and total addressable market (TAM).
+    b. Describe the relationship between sales and marketing expenditures.
   * Interpret the results and discuss the implications for decision-making.
 3. Perform Segmentation Analysis:
   * Segment customers based on their purchase behavior (e.g., frequent buyers, high spenders, etc.).
