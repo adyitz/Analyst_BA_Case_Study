@@ -1,0 +1,10 @@
+Field,Definition,Example
+Month,"This is the first day of the calendar month, representing an entire month of revenue.",2022-07-01
+Customer,A B2B client of EMD Solutions.,InvestWise Ventures
+Customer_Type,The type of client that uses EMD Solutions' products. ,Research
+Customer_Age,"An indicator for whether a firm is a seasoned client; equal to or greater than 1 year old, or less than one year old.",>= 1 Year
+Product,"Represents a financial module (e.g. a cash flow engine, calculator, or financial tool) that the client has subscribed to. They pay for these modules based on usage throughout the month.",an_m7
+Product_Type,The product family that a specific product belongs to.,Analysis
+Revenue,Monthly revenue dollars (USD).,"$43,940"
+Historical Marketing Spend,The lifetime marketing spend for a given Product.,"$3,000"
+"Total Addressable Market (TAM, $)",The total potential annual revenue for a given Product.,"$2,000,000"
