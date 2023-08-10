@@ -15,7 +15,7 @@ You have been provided a raw data file containing sales and advertising expense 
   * You may assume the data is complete (i.e. the data does not contain duplicates, and that all test data has been removed).
 
 2. Perform Segmentation Analysis:
-  * Propose three segmentations of the customer revenue data that you think will be helpful for producting actionable business insights.
+  * Propose three segmentations of the customer revenue data that you think will be helpful for producing actionable business insights.
   * Analyze the characteristics and preferences of each segment.
   * Explore whether the impact of total addressable market (TAM) on sales varies among different customer segments.
   * Explore whether the impact of marketing spend on sales varies among different customer segments.
