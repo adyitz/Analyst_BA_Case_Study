@@ -13,31 +13,29 @@ You have been provided a raw data file containing sales and advertising expense 
   * Calculate any seasonal patterns or trends (if applicable).
   * Provide insights into the general sales performance and trends over time.
   * You may assume the data is complete (i.e. the data does not contain duplicates, and that all test data has been removed).
-2. Identify Relationship between the total addressable market (TAM) and marketing expenditures, and the average monthly revenue per product:
-  * Clean the data:
-    * We have previously analyzed the historical sales data and activities and observed two items worth noting:
-      a. New accounts take about a year to season and reach full utilization of the modules they are subscribed to.
-      b. Even though we have clients that are in the Research industry, we have never marketed to Research firms the past (i.e. Customer_Type = Research).
-  * Build a model to quantify the relationship between sales and total addressable market (TAM).
-  * Build a model to quantify the relationship between sales and marketing expenditures.
-  * Questions: 
-    a. Describe the relationship between sales and total addressable market (TAM).
-    b. Describe the relationship between sales and marketing expenditures.
-  * Interpret the results and discuss the implications for decision-making.
-3. Perform Segmentation Analysis:
-  * Segment customers based on their purchase behavior (e.g., frequent buyers, high spenders, etc.).
+
+2. Perform Segmentation Analysis:
+  * Propose three segmentations of the customer revenue data that you think will be helpful for producting actionable business insights.
   * Analyze the characteristics and preferences of each segment.
   * Explore whether the impact of total addressable market (TAM) on sales varies among different customer segments.
+  * Explore whether the impact of marketing spend on sales varies among different customer segments.
 
-## Business Recommendation:
+3. Identify Relationship between the total addressable market (TAM) and marketing expenditures, and the average monthly revenue per product:
+  * Clean the data:
+    * We have previously analyzed the historical sales data and observed two items worth noting:
+        * New accounts take about a year to season and reach full utilization of the modules they are subscribed to.
+        * Even though we have clients that are in the Research industry, we have never marketed to Research firms the past (i.e. Customer_Type = Research).
+  * Build a model:
+     * Build a model to quantify the relationship between sales and total addressable market (TAM).
+     * Build a model to quantify the relationship between sales and marketing expenditures.
+     * Questions:
+         * Describe the relationship between sales and total addressable market (TAM). Interpret the results and discuss the implications for decision-making.
+         * Describe the relationship between sales and marketing expenditures. Interpret the results and discuss the implications for decision-making.
+         * With the data provided, are there any alternative models to consider? If so, please build one and describe its merits. Interpret the results and discuss the implications for decision-making.  
+     * For the five new products the Leadership team would like to launch:
+         * How would you allocate a $200,000.00 marketing budget?
+         * For the strongest model you have, and based on your allocation, how much average monthly revenue do you anticipate from each product?
 
-Based on your analysis, recommend an optimal advertising budget that would maximize sales while considering the cost of advertising. Provide evidence and justification for your recommendation.
-
-* Provide your recommendation on how much advertising budget should be allocated to:
-  * The current product suite.
-  * New Product 1
-  * New Product 2
-  * New Product 3
 
 Submission:
 
