@@ -14,12 +14,12 @@ You have been provided a raw data file containing sales and advertising expense 
   * Provide insights into the general sales performance and trends over time.
   * You may assume the data is complete (i.e. the data does not contain duplicates, and that all test data has been removed).
 
+
 2. Perform Segmentation Analysis:
   * Propose three segmentations of the customer revenue data that you think will be helpful for producing actionable business insights.
   * Analyze the characteristics and preferences of each segment.
   * Have segment characteristics and preferences changed over time?
-  * Explore whether the impact of total addressable market (TAM) on sales varies among different customer segments.
-  * Explore whether the impact of marketing spend on sales varies among different customer segments.
+    
 
 3. Identify Relationship between the total addressable market (TAM) and marketing expenditures, and the average monthly revenue per product:
   * Clean the data:
@@ -30,15 +30,22 @@ You have been provided a raw data file containing sales and advertising expense 
      * Build a model to quantify the relationship between sales and total addressable market (TAM).
      * Build a model to quantify the relationship between sales and marketing expenditures.
      * Questions:
+         * Explore whether the impact of total addressable market (TAM) on sales varies among different customer segments.
+         * Explore whether the impact of marketing spend on sales varies among different customer segments.
          * Describe the relationship between sales and total addressable market (TAM). Interpret the results and discuss the implications for decision-making.
          * Describe the relationship between sales and marketing expenditures. Interpret the results and discuss the implications for decision-making.
          * With the data provided, are there any alternative models to consider? If so, please build one and describe its merits. Interpret the results and discuss the implications for decision-making.  
-     * For the five new products the Leadership team would like to launch:
-         * How would you allocate a $200,000.00 marketing budget?
-         * For the strongest model you have, and based on your allocation, how much average monthly revenue do you anticipate from each product?
-
+     * For five new products the Leadership team would like to launch:
+         * Please use the following assumptions:
+            * All products must launch.
+            * Each of the new products has a $2M, $4M, $6M, $8M, and $10M TAM, respectively.
+            * The Marketing team has a budget of $250,000. You may recommend to use some, all, or none of the budget.
+         * Use the most reliable model you have available (from the steps above). 
+         * How would you allocate a $250,000.00 marketing budget? Describe your thought process.
+         * How much average monthly revenue do you anticipate from each product based on your marketing budget allocation?
+         
 
 Submission:
 
-Please submit your analysis and findings in Google Sheets file containing the calculated results and charts. Your report should include a concise executive summary (no more than 1 page), methodology, analysis, and actionable insights addressing the business question.
+Please submit your analysis and findings in Google Sheets file containing the calculated results, charts, and notes/descriptions. Your report should include a concise executive summary (no more than 1 page), methodology, analysis, and actionable insights and recommendations.
 
