@@ -9,19 +9,22 @@ Our Leadership team is looking to expand our current product offering, and in or
 You have been provided a raw data file containing sales and advertising expense data. 
 
 1. Summarize Historical Performance:
+   
   * Plot the overall sales trend for the entire data period.
   * Calculate any seasonal patterns or trends (if applicable).
   * Provide insights into the general sales performance and trends over time.
   * You may assume the data is complete (i.e. the data does not contain duplicates, and that all test data has been removed).
 
 
-2. Perform Segmentation Analysis:
+2. Segmentation Analysis!
+   
   * Propose three segmentations of the customer revenue data that you think will be helpful for producing actionable business insights.
   * Analyze the characteristics and preferences of each segment.
   * Have segment characteristics and preferences changed over time?
     
 
-3. Identify Relationship between the total addressable market (TAM) and marketing expenditures, and the average monthly revenue per product:
+3. Time to create a model!
+   
   * Clean the data:
     * We have previously analyzed the historical sales data and observed two items worth noting:
         * New accounts take about a year to season and fully utilize the modules they are subscribed to.
