@@ -35,9 +35,9 @@ You have been provided a raw data file containing sales and advertising expense 
          * All products must launch.
          * Each of the new products has a $6M, $8M, and $10M annual TAM, respectively.
          * The Marketing team has a budget of $250k. You may recommend to use some, all, or none of the budget.
-       1. What were your considerations when building this model?
-       2. Based on your conclusions, how would you allocate a $250k marketing budget? Describe your thought process.
-       3. How much average monthly revenue do you anticipate from each product based on your marketing budget allocation?
+          1. What were your considerations when building this model?
+          2. Based on your conclusions, how would you allocate a $250k marketing budget? Describe your thought process.
+          3. How much average monthly revenue do you anticipate from each product based on your marketing budget allocation?
          
 
 ## Submission:
