@@ -26,10 +26,10 @@ You have been provided a raw data file containing sales and advertising expense 
 3. Time to create a model:
    
    - a) Clean the data:
-    * Some Tips: We have previously analyzed the historical sales data and observed two items worth noting:
-        * New accounts take about a year to season and fully utilize the modules they are subscribed to.
-        * Even though we have clients that are in the Research industry, we have never historically marketed to Research firms the past (i.e. Customer_Type = Research).
-        * Feel free to make additional data exclusions if you determine it is appropriate. Please describe the exclusions and your thought process.
+       * Some Tips: We have previously analyzed the historical sales data and observed two items worth noting:
+           * New accounts take about a year to season and fully utilize the modules they are subscribed to.
+           * Even though we have clients that are in the Research industry, we have never historically marketed to Research firms the past (i.e. Customer_Type = Research).
+           * Feel free to make additional data exclusions if you determine it is appropriate. Please describe the exclusions and your thought process.
   * Build a model!
      * Build a model to quantify the relationship between average monthly revenue and total addressable market (TAM).
      * Build a model to quantify the relationship between average monthly revenue and marketing expenditures.
