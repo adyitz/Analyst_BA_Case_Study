@@ -18,9 +18,9 @@ You have been provided a raw data file containing sales and advertising expense 
 
 2. Segmentation Analysis:
    
-   - a) Propose five segmentations of the customer revenue data that you think will be helpful for exploring potential, actionable business insights.
-   - b) Choose one segment of the data, and analyze the characteristics and preferences of each segment.
-   - c) Have the segment's characteristics and preferences changed over time? If so, how?
+      - a) Propose five segmentations of the customer revenue data that you think will be helpful for exploring potential, actionable business insights.
+      - b) Choose one segment of the data, and analyze the characteristics and preferences of each segment.
+      - c) Have the segment's characteristics and preferences changed over time? If so, how?
     
 
 3. Time to create a model:
