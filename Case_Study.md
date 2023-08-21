@@ -10,10 +10,10 @@ You have been provided a raw data file containing sales and advertising expense 
 
 1. Summarize Historical Performance:
    
-   - a) Plot the overall sales trend for the entire data period.
-   - b) Calculate any seasonal patterns or trends (if applicable).
-   - c) Provide insights into the general sales performance and trends over time.
-   - d) You may assume the data is complete (i.e. the data does not contain duplicates, and that all test data has been removed).
+   - a) Plot the overall sales trend for the entire data period for the entire company.
+   - b) Provide insights into the general sales performance and trends over time.
+   - c) You may assume the data is complete (i.e. the data does not contain duplicates, and that all test data has been removed).
+   - NOTE: In this section, there is no need to segment the data.
 
 
 2. Segmentation Analysis!
