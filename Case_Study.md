@@ -31,10 +31,10 @@ You have been provided a raw data file containing sales and advertising expense 
            * Even though we have clients that are in the Research industry, we have never historically marketed to Research firms the past (i.e. Customer_Type = Research).
            * Feel free to make additional data exclusions if you determine it is appropriate. Please describe the exclusions and your thought process.
     - b) Build a model you can use to provide a business recommendation for the following scenario:
-          * The Leadership team would like to launch three new products. Please assume:
-            * All products must launch.
-            * Each of the new products has a $6M, $8M, and $10M annual TAM, respectively.
-            * The Marketing team has a budget of $250k. You may recommend to use some, all, or none of the budget.
+       * The Leadership team would like to launch three new products. Please assume:
+         * All products must launch.
+         * Each of the new products has a $6M, $8M, and $10M annual TAM, respectively.
+         * The Marketing team has a budget of $250k. You may recommend to use some, all, or none of the budget.
        1. What were your considerations when building this model?
        2. Based on your conclusions, how would you allocate a $250k marketing budget? Describe your thought process.
        3. How much average monthly revenue do you anticipate from each product based on your marketing budget allocation?
