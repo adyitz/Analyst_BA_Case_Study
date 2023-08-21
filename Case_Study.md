@@ -30,23 +30,14 @@ You have been provided a raw data file containing sales and advertising expense 
            * New accounts take about a year to season and fully utilize the modules they are subscribed to.
            * Even though we have clients that are in the Research industry, we have never historically marketed to Research firms the past (i.e. Customer_Type = Research).
            * Feel free to make additional data exclusions if you determine it is appropriate. Please describe the exclusions and your thought process.
-  * Build a model!
-     * Build a model to quantify the relationship between average monthly revenue and total addressable market (TAM).
-     * Build a model to quantify the relationship between average monthly revenue and marketing expenditures.
-     * Analysis:
-         * Build a model that describes the relationship between sales and total addressable market (TAM). Interpret the results and discuss the implications for decision-making.
-         * Build a model that describes the relationship between sales and marketing expenditures. Interpret the results and discuss the implications for decision-making.
-         * Explore whether the impact of total addressable market (TAM) on sales varies among different customer segments.
-         * Explore whether the impact of marketing spend on sales varies among different customer segments.
-         * With the data provided, are there any alternative models to consider? If so, please build one and describe its merits. Interpret the results and discuss the implications for decision-making.  
-     * For five new products the Leadership team would like to launch:
-         * Please use the following assumptions:
+    - b) Build a model you can use to provide a business recommendation for the following scenario:
+          - The Leadership team would like to launch three new products. Please assume:
             * All products must launch.
-            * Each of the new products has a $2M, $4M, $6M, $8M, and $10M TAM, respectively.
-            * The Marketing team has a budget of $250,000. You may recommend to use some, all, or none of the budget.
-         * Use the most reliable model you have available (from the steps above). 
-         * How would you allocate a $250,000.00 marketing budget? Describe your thought process.
-         * How much average monthly revenue do you anticipate from each product based on your marketing budget allocation?
+            * Each of the new products has a $6M, $8M, and $10M annual TAM, respectively.
+            * The Marketing team has a budget of $250k. You may recommend to use some, all, or none of the budget.
+          - What were your considerations when building this model?
+          - Based on your conclusions, how would you allocate a $250k marketing budget? Describe your thought process.
+          - How much average monthly revenue do you anticipate from each product based on your marketing budget allocation?
          
 
 ## Submission:
