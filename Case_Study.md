@@ -1,6 +1,6 @@
 ## Objective:
 
-As a Business Analyst for EMD Solutions, a fictional vertical B2B SaaS startup, one of your tasks is to analyze historical sales data and provide insights to the leadership team regarding sales performance across the EMD Solutions product suite. EMD Solutions provides financial modeling, analytics, accounting and reporting tools to small businesses across the United States, who would otherwise have to buld, maintain and staff more-robust financial functions on their own.
+As a Business Analyst for EMD Solutions, a fictional vertical B2B SaaS startup, one of your tasks is to analyze historical sales data and provide insights to the leadership team regarding sales performance across the EMD Solutions product suite. EMD Solutions provides financial modeling, analytics, accounting and reporting tools to small businesses across the United States, who would otherwise have to build, maintain and staff more-robust financial functions on their own.
 
 Our Leadership team is looking to expand our current product offering, and in order to successfully launch, they are eager to answer the following business question: ***"Has the total addressable market (TAM) and advertising spend significantly influenced historical sales performance, and if so, what is the optimal allocation of our advertising budget to maximize sales?"***
 
@@ -10,10 +10,10 @@ You have been provided a raw data file containing sales and advertising expense 
 
 1. Summarize Historical Performance:
    
-  * Plot the overall sales trend for the entire data period.
-  * Calculate any seasonal patterns or trends (if applicable).
-  * Provide insights into the general sales performance and trends over time.
-  * You may assume the data is complete (i.e. the data does not contain duplicates, and that all test data has been removed).
+  a. Plot the overall sales trend for the entire data period.
+  b. Calculate any seasonal patterns or trends (if applicable).
+  c. Provide insights into the general sales performance and trends over time.
+  d. You may assume the data is complete (i.e. the data does not contain duplicates, and that all test data has been removed).
 
 
 2. Segmentation Analysis!
