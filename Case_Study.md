@@ -42,5 +42,5 @@ You have been provided a raw data file containing sales and advertising expense 
 
 ## Submission:
 
-Please submit your analysis and findings in Google Sheets file containing the calculated results, charts, and notes/descriptions. Your report should include a concise executive summary (no more than 1 page), methodology, analysis, and actionable insights and recommendations.
+Please submit your analysis and findings in Google Sheets file containing the calculated results, charts, and notes/descriptions. Your report should include a concise executive summary (no more than 1 page), methodology, analysis, and actionable insights and recommendations. Please make sure answers are marked clearly (e.g. If you proivde two answers in one tab of a Google Sheet workbook, please clearly label which answer is for 2a vs 2b.)
 
