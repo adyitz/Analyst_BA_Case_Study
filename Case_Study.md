@@ -6,7 +6,7 @@ Our Leadership team is looking to expand our current product offering, and in or
 
 ## Data and Task Guidelines:
 
-You have been provided a raw data file containing sales and advertising expense data. 
+You have been provided a raw data file containing historical revenue data ("Revenue Data.csv") and a file containing historical marketing spend and TAM data ("Marketing Spend and TAM by Product.csv") for your analysis. Additionally, a Data Dictionary file has been provided to facilitate the use of the data in the provided files. With the provided files, please perform the exercise below. 
 
 1. Summarize Historical Performance:
    
