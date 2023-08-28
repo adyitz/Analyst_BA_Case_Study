@@ -8,18 +8,17 @@ Our Leadership team is looking to expand our current product offering, and in or
 
 You have been provided a raw data file containing historical revenue data ("Revenue Data.csv") and a file containing historical marketing spend and TAM data ("Marketing Spend and TAM by Product.csv") for your analysis. Additionally, a Data Dictionary file has been provided to facilitate the use of the data in the provided files. With the provided files, please perform the exercise below. 
 
-1. Summarize Historical Performance:
+1. Summarize Historical Performance: (For this section, all analyses should be performed at a company-level.)
    
    - a) Plot the overall sales trend for the entire data period for the entire company.
-   - b) Provide insights into the company-level sales performance and trends over time.
-   - c) You may assume the data is complete (i.e. the data does not contain duplicates, and that all test data has been removed).
-   - NOTE: For this section (1), assume that all analyses are performed at a company-level.
+   - b) Provide insights into company-level sales performance and trends over time.
+   - c) Assume the data is complete (i.e. the data does not contain duplicates or test data records).
 
 
 2. Segmentation Analysis:
    
-      - a) Propose five segmentations of the customer revenue data that you think will be helpful for exploring potential, actionable business insights.
-      - b) Choose one segment of the data, and analyze the characteristics and preferences of each segment.
+      - a) Propose five segmentations of the customer revenue data that are helpful for exploring potential, actionable business insights. Concisely explain why each segmentation may be valuable.
+      - b) Choose [one] of the five proposed segmentations to analyze in depth. What are the characteristics and preferences of each segment?
       - c) Have the segment's characteristics and preferences changed over time? If so, how?
     
 
