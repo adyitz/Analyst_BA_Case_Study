@@ -19,7 +19,7 @@ ___
 
 Q: Does it matter what database I use to solve the case study?
 
-A: You can choose any relational SQL database and/or spreadsheet (Google Sheets or Excel) to perform your analysis. As of the creation of this case study, BigQuery and Google Sheets are both used at EngagedMD, and you can access that for free with your own accounts. 
+A: As of the creation of this case study, BigQuery and Google Sheets are both used at EngagedMD, and you can access them for free with your own accounts. It is preferable if you conduct the entire case study within Google Sheets. (Excel and relational databases may be used.)
 
 Here is how you would access BigQuery for free: https://cloud.google.com/blog/products/data-analytics/query-without-a-credit-card-introducing-bigquery-sandbox
 ___
