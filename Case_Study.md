@@ -28,13 +28,13 @@ Please submit your analysis and findings in Google Sheets file containing the ca
       - c) Have the segment's characteristics and preferences changed over time? If so, how?
     
 
-3. Time to create a model:
+3. Time to create a model!
    
-    - a) Clean the data:
-       * Some Tips: We have previously analyzed the historical sales data and observed two items worth noting:
-           * New accounts take about a year to season and fully utilize the modules they are subscribed to.
-           * Even though we have clients that are in the Research industry, we have never historically marketed to Research firms the past (i.e. Customer_Type = Research).
-           * For purposes of building a model (section 3), feel free to make additional data exclusions if you determine it is appropriate. If any exclusions are included, please describe those additional exclusions and your rationale for exclusion.
+    - a) Prepare the data for analysis:
+       * Some Tips: We have previously analyzed the historical revenue data and observed two items worth noting:
+           * New accounts take about a year to season and fully utilize the products they are subscribed to.
+           * Even though we have clients that are in the Research industry, we have not historically marketed to Research firms the past (i.e. Customer_Type = Research).
+           * For purposes of building a model (section 3), feel free to make additional data exclusions if you determine it is appropriate. If any exclusions are included, please describe those additional exclusions and your rationale for the exclusion.
     - b) Build a model you can use to provide a business recommendation for the following scenario:
        * The Leadership team would like to launch three new products. Please assume:
          * All products must launch.
