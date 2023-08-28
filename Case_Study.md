@@ -8,6 +8,11 @@ Our Leadership team is looking to expand our current product offering, and in or
 
 You have been provided a raw data file containing historical revenue data ("Revenue Data.csv") and a file containing historical marketing spend and TAM data ("Marketing Spend and TAM by Product.csv") for your analysis. Additionally, a Data Dictionary file has been provided to facilitate the use of the data in the provided files. With the provided files, please perform the exercise below. 
 
+## Submission Requirements:
+
+Please submit your analysis and findings in Google Sheets file containing the calculated results, charts, and notes/descriptions. Your report should also include a concise executive summary (no more than 1 page) describing your methodology, analysis, actionable insights, and recommendations. Please make sure answers are marked clearly (e.g. If you proivde two answers in one tab of a Google Sheet workbook, please clearly label which answer is for 2a vs 2b.)
+
+
 1. Summarize Historical Performance: (For this section, all analyses should be performed at a company-level.)
    
    - a) Plot the overall sales trend for the entire data period for the entire company.
@@ -18,7 +23,7 @@ You have been provided a raw data file containing historical revenue data ("Reve
 2. Segmentation Analysis:
    
       - a) Propose five segmentations of the customer revenue data that are helpful for exploring potential, actionable business insights. Concisely explain why each segmentation may be valuable.
-      - b) Choose [one] of the five proposed segmentations to analyze in depth. What are the characteristics and preferences of each segment?
+      - b) Choose one of the five proposed segmentations to analyze in depth. Please show your analysis neatly in Google Sheets. What are the characteristics and preferences of each segment?
       - c) Have the segment's characteristics and preferences changed over time? If so, how?
     
 
@@ -39,7 +44,4 @@ You have been provided a raw data file containing historical revenue data ("Reve
        - iii) How much average monthly revenue do you anticipate from each product based on your marketing budget allocation?
          
 
-## Submission:
-
-Please submit your analysis and findings in Google Sheets file containing the calculated results, charts, and notes/descriptions. Your report should include a concise executive summary (no more than 1 page), methodology, analysis, and actionable insights and recommendations. Please make sure answers are marked clearly (e.g. If you proivde two answers in one tab of a Google Sheet workbook, please clearly label which answer is for 2a vs 2b.)
 
