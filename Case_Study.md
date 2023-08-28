@@ -13,7 +13,8 @@ You have been provided a raw data file containing historical revenue data ("Reve
 Please submit your analysis and findings in Google Sheets file containing the calculated results, charts, and notes/descriptions. Your report should also include a concise executive summary (no more than 1 page) describing your methodology, analysis, actionable insights, and recommendations. Please make sure answers are marked clearly (e.g. If you proivde two answers in one tab of a Google Sheet workbook, please clearly label which answer is for 2a vs 2b.)
 
 
-1. Summarize Historical Performance: (For this section, all analyses should be performed at a company-level.)
+
+1. Summarize Historical Performance: (For this section, all analysis should be performed at a company-level.)
    
    - a) Plot the overall sales trend for the entire data period for the entire company.
    - b) Provide insights into company-level sales performance and trends over time.
