@@ -21,7 +21,7 @@ Please submit your analysis and findings in Google Sheets file containing the ca
 
 2. Segmentation Analysis:
    
-      - a) Propose five segmentations of the customer revenue data that are helpful for exploring potential, actionable business insights. Concisely explain why each segmentation may be valuable.
+      - a) Propose five different ways to segment the customer revenue data that are helpful for exploring potential, actionable business insights. Concisely explain why each segmentation may be valuable.
       - b) Choose one of the five proposed segmentations to analyze in depth. Please show your analysis neatly in Google Sheets. What are the characteristics and preferences of each segment?
       - c) Have the segment's characteristics and preferences changed over time? If so, how?
    
